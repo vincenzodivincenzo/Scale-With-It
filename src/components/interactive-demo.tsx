@@ -52,7 +52,7 @@ export function InteractiveDemo() {
             Demo Live
           </Badge>
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
-            Vedi l'AI in Azione
+            Vedi l&apos;AI in Azione
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             Ecco come il nostro chatbot AI gestisce automaticamente i lead della tua agenzia
@@ -159,7 +159,7 @@ export function InteractiveDemo() {
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-2">Qualificazione Automatica</h3>
                     <p className="text-gray-600 text-sm">
-                      L'AI identifica automaticamente il tipo di agenzia, dimensioni e necessità, 
+                      L&apos;AI identifica automaticamente il tipo di agenzia, dimensioni e necessità, 
                       qualificando i lead in tempo reale.
                     </p>
                   </div>

@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
-import { ArrowRight, Bot, Zap, Target, Users, TrendingUp, CheckCircle, Star } from "lucide-react"
+import { ArrowRight, Bot, Zap, Target, Users, TrendingUp, CheckCircle } from "lucide-react"
 import { RotatingText } from "@/components/rotating-text"
 import { AnimatedCounter } from "@/components/animated-counter"
 import { ROICalculator } from "@/components/roi-calculator"
@@ -136,7 +136,7 @@ export default function Home() {
                 </div>
                 <CardTitle>Analytics Predittivi</CardTitle>
                 <CardDescription>
-                  Analisi intelligente dei dati per decisioni strategiche basate sull'AI
+                  Analisi intelligente dei dati per decisioni strategiche basate sull&apos;AI
                 </CardDescription>
               </CardHeader>
               <CardContent>
@@ -268,7 +268,7 @@ export default function Home() {
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Supporto Continuo</h3>
               <p className="text-gray-600">
                 Team dedicato sempre disponibile. Aggiornamenti costanti 
-                e ottimizzazioni per restare all'avanguardia.
+                e ottimizzazioni per restare all&apos;avanguardia.
               </p>
             </div>
           </div>

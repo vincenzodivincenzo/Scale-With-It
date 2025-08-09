@@ -58,7 +58,7 @@ const testimonials = [
     company: "Innovate Agency Napoli",
     avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
     rating: 5,
-    quote: "I nostri clienti sono più soddisfatti che mai. L'AI gestisce il 80% delle richieste iniziali permettendoci di concentrarci sulla strategia.",
+    quote: "I nostri clienti sono piu soddisfatti che mai. L AI gestisce il 80% delle richieste iniziali permettendoci di concentrarci sulla strategia.",
     results: {
       automation: "80%",
       clientSatisfaction: "+45%",

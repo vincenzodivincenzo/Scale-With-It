@@ -2,9 +2,9 @@
 
 import { useState } from "react"
 import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { Check, Calendar, Mail, Phone, Building, Users, Target } from "lucide-react"
+import { Check, Calendar, Mail, Building, Target } from "lucide-react"
 
 interface FormData {
   name: string
@@ -294,7 +294,7 @@ export function ContactForm() {
                 <h3 className="text-xl font-semibold text-gray-900 mb-4">Budget e Tempistiche</h3>
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-3">
-                    Budget Indicativo per l'Automazione
+                    Budget Indicativo per l&apos;Automazione
                   </label>
                   <div className="grid md:grid-cols-2 gap-3">
                     {budgetRanges.map((range) => (
